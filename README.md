@@ -1,4 +1,4 @@
-# violence_detection
+## violence_detection
 # Projenin Tanıtımı
 Saldırganlık tespiti, video görüntülerinde insanların hareketlerini gözlemleyerek şiddet içeren bir 
 tavır içinde olup olmadıklarının tespit edilmesidir. Bu tespit için denetimli derin öğrenme modeli 
