@@ -45,3 +45,5 @@ varyantını önerilir. Transformatör tabanlı modellerin yalnızca büyük eğ
 olduğunda etkili olduğu bilinir. 2021 yılının sonlarında yayınlanan bu model, video sınıflandırma 
 kıyaslamasında derin 3D evrişimli ağlara dayalı önceki yöntemleri geride bırakarak son teknoloji bir 
 model sunar.
+
+<img src="https://github.com/emirhanlatif/violence_detection/blob/master/pictures/vivit.png" width="auto">
